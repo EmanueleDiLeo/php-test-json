@@ -1,0 +1,20 @@
+[
+  {
+    "nome":"pippo",
+    "cognome" : "verdi" 
+  },
+  {
+    "nome" : "luca",
+    "cognome" : "rosso"
+  },
+  {
+    "nome" : "franco",
+    "cognome" : "nero"
+  },
+  {
+    "nome" : "pluto",
+    "cognome" : "bianco"
+  }
+
+]
+
